@@ -1,6 +1,8 @@
 ## Getting Started
 
-First, run the development server:
+Download the text file that i attached in the Mail. Create ".env.local" file, same path as the package.json file present. Copy the Environment Variable and paste that in this file. 
+
+Run the development server:
 
 ```bash
 npm run dev
