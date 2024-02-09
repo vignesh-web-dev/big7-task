@@ -1,20 +1,47 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Getting Started
 
 First, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+#Without Login ->
+
+- Click the button in the Home page.
+- you'll see the restraunts list.
+- And there no no functionaly you can access.
+
+  You can click the pagination to view remaining datas
+
+#signin with your own personal github account ->
+
+- Click the button in the Home page.
+- you're now able to cilck on the particular item to view its detailed page.
+- But you're not able to see the add, delete or edit buttons.
+- Signout using the signout button in the navbar.
+
+#signin with the below values -> 
+  UserName : vignesh
+  Password : nextjstask
+
+- Click the button in the Home page.
+- you're now able to cilck on the particular item to view its detailed page.
+- and you can able to see the add button enabled now.
+- click the add button and popup appears, you'll need to enter one value inside the inputs.
+- Click Submit or Discard.
+- Click any of the item to view in the detailed page, and there you'll see the Edit and Delete Button.
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+This application is build using Nextjs.
+
+Authentication : NextAuth.js with Github Auth Provider.
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
