@@ -1,0 +1,74 @@
+{
+  "restaurants": [
+    {
+      "id": 1707414286729,
+      "name": "Restaurant One",
+      "address": "123 Main St, Cityville",
+      "phone": "123-456-7890",
+      "cuisine": "American"
+    },
+    {
+      "id": 1707414356927,
+      "name": "Restaurant Two",
+      "address": "456 Oak St, Townsville",
+      "phone": "987-654-3210",
+      "cuisine": "Italian"
+    },
+    {
+      "id": 1707414399425,
+      "name": "Restaurant Three",
+      "address": "789 Elm St, Villageton",
+      "phone": "555-555-5555",
+      "cuisine": "Mexican"
+    },
+    {
+      "id": 1707414409259,
+      "name": "Restaurant Four",
+      "address": "10 Pine St, Lakeside",
+      "phone": "555-123-4567",
+      "cuisine": "Chinese"
+    },
+    {
+      "id": 1707414417683,
+      "name": "Restaurant Five",
+      "address": "555 Cherry Ave, Riverside",
+      "phone": "123-789-4561",
+      "cuisine": "French"
+    },
+    {
+      "id": 1707414425452,
+      "name": "Restaurant Six",
+      "address": "789 Walnut St, Downtown",
+      "phone": "555-987-6543",
+      "cuisine": "Mediterranean"
+    },
+    {
+      "id": 1707414435686,
+      "name": "Restaurant Seven",
+      "address": "777 Maple Ave, Uptown",
+      "phone": "555-666-7777",
+      "cuisine": "Japanese"
+    },
+    {
+      "id": 1707414444050,
+      "name": "Restaurant Eight",
+      "address": "456 Oak St, Suburbia",
+      "phone": "555-222-3333",
+      "cuisine": "Thai"
+    },
+    {
+      "id": 1707414451777,
+      "name": "Restaurant Nine",
+      "address": "123 Vine St, Countryside",
+      "phone": "555-444-5555",
+      "cuisine": "Steakhouse"
+    },
+    {
+      "id": 1707414459218,
+      "name": "Restaurant Ten",
+      "address": "777 Oak St, Parkside",
+      "phone": "555-999-8888",
+      "cuisine": "Seafood"
+    }
+  ]
+}
