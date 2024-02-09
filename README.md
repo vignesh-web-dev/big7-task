@@ -30,7 +30,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - Click the button in the Home page.
 - you're now able to cilck on the particular item to view its detailed page.
 - and you can able to see the add button enabled now.
-- click the add button and popup appears, you'll need to enter one value inside the inputs.
+- click the add button and popup appears, you'll need to enter one value inside the inputs otherwise the submit button is disabled.
 - Click Submit or Discard.
 - Click any of the item to view in the detailed page, and there you'll see the Edit and Delete Button.
 
@@ -39,6 +39,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 This application is build using Nextjs.
 
 Authentication : NextAuth.js with Github Auth Provider.
+
+UI - https://ui.shadcn.com/docs/components/input#installation
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////
 
